@@ -1,6 +1,9 @@
 Device Tree for Moto Z2 Play (albus)
 ===========================================
 
+WIP - android 17.1 tree - nothing working here right now
+========================================================
+
 The Motorola Moto Z2 Play (codenamed _"albus"_) is a mid-range smartphone from Motorola mobility.
 It was announced on June 2017.
 
